@@ -32,21 +32,25 @@
     -khtml-user-select: none;
     -webkit-user-select: none;
     -o-user-select: none;
+    margin: 0 auto;
 }
 
 .cjslib-calendar.cjslib-size-small {
     width: 400px;
     height: 400px;
+    margin: 0 auto;
 }
 
 .cjslib-calendar.cjslib-size-medium {
     width: 600px;
     height: 600px;
+    margin: 0 auto;
 }
 
 .cjslib-calendar.cjslib-size-large {
     width: 800px;
     height: 800px;
+    margin: 0 auto;
 }
 
 .cjslib-year {
@@ -359,6 +363,7 @@
 .cjslib-events {
     width: 800px;
     height: 800px;
+    margin: 0 auto;
     font-family:
     Lato,
     -apple-system,
@@ -392,16 +397,19 @@
 .cjslib-events.cjslib-size-small {
     width: 400px;
     height: 400px;
+    margin: 0 auto;
 }
 
 .cjslib-events.cjslib-size-medium {
     width: 600px;
     height: 600px;
+    margin: 0 auto;
 }
 
 .cjslib-events.cjslib-size-large {
     width: 800px;
     height: 800px;
+    margin: 0 auto;
 }
 
 .cjslib-date {
