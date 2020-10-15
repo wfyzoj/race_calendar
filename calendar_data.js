@@ -90,6 +90,88 @@ var data = {
                     text: "AtCoder Regular Contest 105"
                 }
             ],
+            "17": [
+                {
+                    startTime: "08:30",
+                    endTime: "12:30",
+                    text: "CSP-S2周末刷题班（第一场）(at csp.ac)"
+                },
+                {
+                    startTime: "18:00",
+                    endTime: "22:00",
+                    text: "2020牛客NOIP赛前集训营-提高组（第一场）"
+                },
+                {
+                    startTime: "21:05",
+                    endTime: "23:35",
+                    text: "Codeforces Raif Round 1 (Div. 1 + Div. 2)"
+                }
+            ],
+            "18": [
+                {
+                    startTime: "20:00",
+                    endTime: "22:30",
+                    text: "AtCoder Grand Contest 048"
+                },
+                {
+                    startTime: "23:35",
+                    endTime: "次日 01:35",
+                    text: "Codeforces Round #676 (Div. 2)"
+                }
+            ],
+            "20": [
+                {
+                    startTime: "18:00",
+                    endTime: "22:00",
+                    text: "2020牛客NOIP赛前集训营-提高组（第二场）"
+                },
+                {
+                    startTime: "22:35",
+                    endTime:"次日 00:35",
+                    text:"Codeforces Round #677 (Div. 3)"
+                }
+            ],
+            "24": [
+                {
+                    startTime: "08:30",
+                    endTime: "12:30",
+                    text: "CSP-S2周末刷题班（第二场）(at csp.ac)"
+                },
+                {
+                    startTime: "20:00",
+                    endTime: "21:40",
+                    text:"AtCoder Regular Contest 106"
+                }
+            ],
+            "25": [
+                {
+                    startTime: "08:30",
+                    endTime: "12:30",
+                    text: "CSP-S2周末刷题班（第三场）(at csp.ac)"
+                }
+            ],
+            "31": [
+                {
+                    startTime: "08:30",
+                    endTime: "12:30",
+                    text: "CSP-S2周末刷题班（第四场）(at csp.ac)"
+                },
+                {
+                    startTime: "20:00",
+                    endTime: "21:40",
+                    text:"AtCoder Regular Contest 107"
+                }
+            ]
+
+        },
+        "11": {
+            "1": [
+                {
+                    startTime: "08:30",
+                    endTime: "12:30",
+                    text: "CSP-S2周末刷题班（第五场）(at csp.ac)"
+                }
+            ]
         }
 }
 };
