@@ -123,43 +123,57 @@ var data = {
                 {
                     startTime: "18:00",
                     endTime: "22:00",
-                    text: "2020牛客NOIP赛前集训营-提高组（第二场）"
+                    text: "2020牛客NOIP赛前集训营-提高组（第二场）",
+                    link: "https://ac.nowcoder.com/acm/contest/7607"
                 },
                 {
                     startTime: "22:35",
                     endTime:"次日 00:35",
-                    text:"Codeforces Round #677 (Div. 3)"
+                    text:"Codeforces Round #677 (Div. 3)",
+                    link: "https://codeforces.com/contests/1433"
                 }
             ],
             "24": [
                 {
                     startTime: "08:30",
                     endTime: "12:30",
-                    text: "CSP-S2周末刷题班（第二场）(at csp.ac)"
+                    text: "CSP-S2周末刷题班（第二场）(at csp.ac)",
+                    link: "http://csp.ac/contest/45"
+
                 },
                 {
                     startTime: "20:00",
                     endTime: "21:40",
-                    text:"AtCoder Regular Contest 106"
+                    text:"AtCoder Regular Contest 106",
+                    link:"https://atcoder.jp/contests/arc106"
+                },
+                {
+                    startTime: "22:05",
+                    endTime: "次日 00:05",
+                    text: "Codeforces Round #678 (Div. 2)",
+                    link: "https://codeforces.com/contests/1436"
                 }
             ],
             "25": [
                 {
                     startTime: "08:30",
                     endTime: "12:30",
-                    text: "CSP-S2周末刷题班（第三场）(at csp.ac)"
+                    text: "CSP-S2周末刷题班（第三场）(at csp.ac)",
+                    link: "http://csp.ac/contest/46"
                 }
             ],
             "31": [
                 {
                     startTime: "08:30",
                     endTime: "12:30",
-                    text: "CSP-S2周末刷题班（第四场）(at csp.ac)"
+                    text: "CSP-S2周末刷题班（第四场）(at csp.ac)",
+                    link: "http://csp.ac/contest/47"
                 },
                 {
                     startTime: "20:00",
                     endTime: "21:40",
-                    text:"AtCoder Regular Contest 107"
+                    text:"AtCoder Regular Contest 107",
+                    link: "https://atcoder.jp/contests/arc107"
                 }
             ]
 
@@ -169,7 +183,14 @@ var data = {
                 {
                     startTime: "08:30",
                     endTime: "12:30",
-                    text: "CSP-S2周末刷题班（第五场）(at csp.ac)"
+                    text: "CSP-S2周末刷题班（第五场）(at csp.ac)",
+                    link: "http://csp.ac/contest/47"
+                },
+                {
+                    startTime: "20:00",
+                    endTime: "21:40",
+                    text: "AtCoder Beginner Contest 181",
+                    link: "https://atcoder.jp/contests/abc181"
                 }
             ]
         }
