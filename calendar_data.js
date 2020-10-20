@@ -162,6 +162,14 @@ var data = {
                     link: "http://csp.ac/contest/46"
                 }
             ],
+            "27":[
+                {
+                    startTime: "22:35",
+                    endTime: "次日 00:35",
+                    text: "Educational Codeforces Round 97 (Rated for Div. 2)",
+                    link: "https://codeforces.com/contests/1437"
+                }
+            ],
             "31": [
                 {
                     startTime: "08:30",
